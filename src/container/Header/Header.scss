@@ -4,6 +4,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
+    overflow: hidden;
 
     // disable the default padding styles
     .app__wrapper{
@@ -111,6 +112,7 @@
     height: 100%;
     margin-left: 1rem;
     position: relative;
+    
   
     div {
       width: 100px;
